@@ -1,0 +1,8 @@
+<resources>
+    <string name="app_name">SOON Autobiography</string>
+    <string name="start_recording">녹음 시작</string>
+    <string name="start_recording_talkback_label">녹음 시작 버튼</string>
+    <string name="notification_recording">생애 기록을 위해 녹음 중입니다</string>
+    <string name="notification_channel_name">녹음 진행 알림</string>
+    <string name="notification_channel_description">진행 중인 오디오 녹음 상태를 제공합니다.</string>
+</resources>
