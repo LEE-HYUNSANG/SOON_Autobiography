@@ -1,0 +1,1 @@
+# Placeholder storage architecture documentation
